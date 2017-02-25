@@ -35,9 +35,9 @@ h2,h3 {
 }
 
 hr {
-  border-color: #f2af00;
+  border-color: #dc5034;
   margin: 0;
-  opacity: 0.3;
+  opacity: 0.9;
 }
 
 img {
@@ -72,7 +72,7 @@ img:hover {
     -ms-transition: all 0.4s ease-in-out;
    }
 .navbar-brand:hover, .navbar-brand:clicked {
-  background: dc5034;
+  background: #dc5034;
 }
 .navbar-default .navbar-nav li a {
     border-right: 1px solid #f9f9f9;
